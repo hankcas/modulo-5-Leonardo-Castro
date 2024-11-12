@@ -1,0 +1,17 @@
+{
+  "name": "proyecto-tarea-2",
+  "version": "1.2.0",
+  "description": "creacion del package-json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "node --watch index.js"
+    
+  },
+  "keywords": [
+    "tarea",
+    "2-actividad-estudio"
+  ],
+  "author": "Eyder Leonardo Castro Ortiz",
+  "license": "ISC"
+}

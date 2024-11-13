@@ -1,0 +1,15 @@
+{
+  "name": "proyecto-node-tarea-3",
+  "version": "1.0.0",
+  "description": "Proyecto de tarea para practicar NodeJS y NPM",
+  "main": "async.js",
+  "type": "module",
+
+  "scripts": {
+    "start": "node async.js",
+    "dev": "node --watch async.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eyder Leonardo Castro Ortiz",
+  "license": "ISC"
+}

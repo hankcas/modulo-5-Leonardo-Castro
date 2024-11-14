@@ -1,0 +1,15 @@
+{
+  "name": "tarea-5",
+  "version": "1.0.0",
+  "main": "calculadora.js",
+  "type": "module",
+  "scripts": {
+    "start": "node calculadora.js",
+    "dev": "node --watch calculadora.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
